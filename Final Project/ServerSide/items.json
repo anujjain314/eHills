@@ -1,0 +1,53 @@
+[{
+  "itemName":"iPhone 13",
+  "itemDescription":"New, midnight color, 128 GB storage",
+  "minPrice":500.00,
+  "buyNow":799.99,
+  "timeLimit":30.00,
+  "status":"For sale",
+  "highestBidderName": "No bids",
+  "history": []
+},
+  {
+    "itemName":"Macbook Air (2020)",
+    "itemDescription":"New, space gray, 256 GB storage, 16 GB ram",
+    "minPrice":750.00,
+    "buyNow":1100.00,
+    "timeLimit":30.00,
+    "status":"For sale",
+    "highestBidderName": "No bids",
+    "history": []
+
+  },
+  {
+    "itemName":"iPad Air",
+    "itemDescription":"New, Sky Blue, 64 GB storage",
+    "minPrice":200.00,
+    "buyNow":600.00,
+    "timeLimit":30.00,
+    "status":"For sale",
+    "highestBidderName": "No bids",
+    "history": []
+
+  },
+  {
+    "itemName":"Apple",
+    "itemDescription":"Fresh, just picked Envy Apple",
+    "minPrice":0.10,
+    "buyNow":5.00,
+    "timeLimit":30.00,
+    "status":"For sale",
+    "highestBidderName": "No bids",
+    "history": []
+
+  },
+  {
+    "itemName":"Puzzle Cube",
+    "itemDescription":"3x3 limited edition Rubik's branded cube",
+    "minPrice":3.00,
+    "buyNow":30.00,
+    "timeLimit":30.00,
+    "status":"For sale",
+    "highestBidderName": "No bids",
+    "history": []
+  }]
